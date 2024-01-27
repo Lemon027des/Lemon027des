@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Egor Efimov
-- 👀 So... I have 15 years old and I from Russia - Penza)
+че
 
 <!---
 Lemon027des/Lemon027des is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
